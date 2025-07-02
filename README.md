@@ -59,7 +59,9 @@ Other:Google Docs, Google Sheets, Microsoft Word, Microsoft Excel, Power BI,Jira
 📫 Let's Connect
 
 📧 Email: [abdulhannansumon70@gmail.com](mailto:abdulhannansumon70@gmail.com)
+
 💼 LinkedIn: [abdul-hannan-sumon](https://linkedin.com/in/abdul-hannan-sumon-80a46a152/)
+
 🧑‍💻 GitHub: [@ahsumon7](https://github.com/ahsumon7)
 
 
