@@ -34,16 +34,16 @@ Other:Google Docs, Google Sheets, Microsoft Word, Microsoft Excel, Power BI,Jira
 
 📌 Projects
 
-✈️ NDC Microservice Integration – Skyticket**  
+✈️ NDC Microservice Integration – Skyticket 
   Designed microservices to connect airline systems for fare search and booking via NDC APIs.
 
-📊 Ascend Financials – MFI Automation**  
+📊 Ascend Financials – MFI Automation
   Built seamless data migration tools and automated policy validation for faster onboarding.
 
-🏫 CRVS Primary School System**  
+🏫 CRVS Primary School System  
   Developed a student tracking platform for attendance, results, salary management, and transfers.
 
-🔄 MSSQL to PostgreSQL Migration**  
+🔄 MSSQL to PostgreSQL Migration 
   Converted all stored procedures, triggers, and business logic during large-scale database transition.
 
 
