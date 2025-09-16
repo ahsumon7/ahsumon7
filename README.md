@@ -25,9 +25,9 @@ I'm a results-driven Software Engineer with 5+ years of experience building back
  🧰 Tech Stack
 
 Languages: Java, JavaScript  
-Backend: Spring Boot, VB.NET  
-Frontend: React  
-Databases:PostgreSQL, MySQL, MSSQL, ElasticSearch  
+Backend Framework : Spring Boot, VB.NET  
+Frontend Framework: React  
+Databases:PostgreSQL, MySQL, MSSQL  
 Tools:Git, Maven, Docker, Tomcat, Postman, Apache JMeter, Locust, JUnit, Mockito  
 Other:Google Docs, Google Sheets, Microsoft Word, Microsoft Excel, Power BI,Jira
 
