@@ -22,14 +22,21 @@ I'm a results-driven Software Engineer with 5+ years of experience building back
 
 
 
- 🧰 Tech Stack
+🧰 Tech Stack
 
-Languages: Java, JavaScript  
-Backend Framework : Spring Boot, VB.NET  
-Frontend Framework: React  
-Databases:PostgreSQL, MySQL, MSSQL  
-Tools:Git, Maven, Docker, Tomcat, Postman, Apache JMeter, Locust, JUnit, Mockito  
-Other:Google Docs, Google Sheets, Microsoft Word, Microsoft Excel, Power BI,Jira
+Languages: Java, JavaScript, SQL, HTML, CSS
+
+Frameworks: Spring Boot, Spring MVC, React, VB.NET
+
+Databases: PostgreSQL, MSSQL, MySQL, Redis
+
+Cloud & DevOps: AWS, Docker, Git, GitHub, Maven, Tomcat
+
+Messaging & Streaming: RabbitMQ
+
+Testing Tools: JUnit, Mockito, Apache JMeter, Locust
+
+Documentation & Productivity: Swagger, Jira, Microsoft Office, Google Docs/Sheets, Power BI
 
 
 📌 Projects
